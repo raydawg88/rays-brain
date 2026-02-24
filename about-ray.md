@@ -22,6 +22,7 @@ _(Communication style, humor, taste)_
 - Appreciates tools that "just work" without configuration
 - Interested in how tools structure their agent instructions
 - Likes finding competitive intelligence in public (leaked prompts, open-source alternatives)
+- **Flags what matters:** When something is important, he says so explicitly ("that qmd one is a big one that we need for sure!")
 
 ## Patterns
 _(Recurring themes in what Ray shares)_
@@ -30,6 +31,9 @@ _(Recurring themes in what Ray shares)_
 - **Competitive intelligence:** Tracks what competitors are building (Entire.io, Cursor, Devin)
 - **Developer experience:** Cares about how tools inject context, format output, handle memory
 - **Integration opportunities:** When he shares something, he's thinking "can we use this in Recall?"
+- **Local-first tools:** QMD (local search), Ironclaw (local CRM) — privacy-first, on-device processing
+- **Mobile-native UX:** Live Activities for agent observability, mobile-first AI experiences
+- **Frictionless integration:** Natural language configuration (Exa + Claude Code) over manual setup
 
 ---
 
